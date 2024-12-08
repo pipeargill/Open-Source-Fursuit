@@ -9,17 +9,17 @@ The 3M masks are comfortable, affordable, feature an anti-fog exhaust port, and 
 
 Current Development 
 
-I am currently working on 3D modeling the adapter plates, and I've gathered open-source 3D designs that should be compatible with the mask. However, the long-term goal is to make the system modular to allow users to easily swap parts based on their design needs or be able to relief cut their own design incompatible part. part. 
+I am currently working on 3D modeling the adapter plates, and I've gathered open-source 3D designs that should be compatible with the mask. However, the long-term goal is to make the system modular to allow users to easily swap parts based on their design needs or be able to relief cut their own design into a compatible part for this system.
 
 Accessories and Electronics 
 
 In addition to the base adapter, I envision adding accessories such as: 
 
-Motorcycle/MTB Helmet Integration: A version that works with a helmet ontop of a half mask. 
+Motorcycle/MTB Helmet Integration: A version that works with a full face helmet ontop of a half mask.
 
-Transhumanist Stillsuit: With a focus on adapting to air quality concerns, this suit aims to normalize mask-wearing in everyday life with potential for oxygen supply, or other user focused needs.
+Transhumanist Stillsuit: With a focus on adapting to air quality concerns, this suit aims to normalize mask-wearing in everyday life with potential for oxygen supply, or other user focused needs such as standing or walking support.
 
-Electronic Integrations: Future designs will incorporate electronics like heads up displays, lights, and external displays to create advanced digital cosplay or cyberpunk wearables.
+Electronic Integrations: Future designs will incorporate electronics like heads up displays, lights, external displays, speakers, and fans to create advanced digital cosplay or cyberpunk wearables.
 
 Future Designs 
 
@@ -31,13 +31,16 @@ Tactical suit: I eventually want to build and test some of the bulletproof print
 
 TV Head Prince Robot IV: TV head character that I plan to cosplay, should make good base design.
 
-First Prototype Notes
+Puppet head on long neck: I want to try this as a way to add more articulation to a head that is puppeted on top of the user's head.
 
-The first prototype was a simple test design to see how the 3D print would attach to the exhaust port of the respirator mask. 
 
 Log:
 
 Proof of Concept - Test Print 1 (12/1/24) 
+
+First Prototype Notes
+
+The first prototype was a simple test design to see how the 3D print would attach to the exhaust port of the respirator mask. 
 
 Prototype: Horse skull adapter for 3M 6200 half-mask respirator. 
 
