@@ -1,15 +1,24 @@
 # Open-Source-Fursuit
 Open Cosplay/Fursuit Base Build for 3M 6000 Series Respirator Mask 
+![20241205_011155](https://github.com/user-attachments/assets/896af129-97d1-4a42-aae2-ec2b246f2b39)
 
 Project Overview 
 
 This project revolves around adapting the 3M 6000 series respirator mask into a versatile platform for building cosplay and fursuit heads. I’ve discovered that wearing a respirator mask, especially for seasonal allergies, is not only more comfortable than taking allergy medications but also provides a unique opportunity to design custom headgear that attaches securely to a mask. 
+
+![20241205_002525](https://github.com/user-attachments/assets/47b576f2-f4ef-4e54-b902-d0645ce54abf)
+
 
 The 3M masks are affordable, fairly comfortable, feature an anti-fog exhaust port, and have adjustable straps; making them ideal for attaching various 3D-printed head designs. The aim of this project is to create modular adapters and accessories that allow the creation of custom cosplay, fursuit, or cyberwear designs that can be easily attached to the mask, with plans to integrate electronics and additional functionality. 
 
 Current Development 
 
 I am currently working on 3D modeling the adapter plates, and I've gathered open-source 3D designs that should be compatible with the mask. However, the long-term goal is to make the system modular to allow users to easily swap parts based on their design needs or be able to relief cut their own design into a compatible part for this system.
+
+Remote Air Supply, these adapters seem expensive for no good reason. Will soon design adapters for CPAP hoses and other common air supply methods.
+![3M-SA-2500-2T](https://github.com/user-attachments/assets/b87b4359-a478-446e-b752-7f95c2917cf1)
+![449N09_AS01](https://github.com/user-attachments/assets/131754bf-49d7-4a22-9b09-74cc93862436)
+
 
 Accessories and Electronics 
 
@@ -40,6 +49,9 @@ Log:
 
 Proof of Concept - Test Print 1 (12/1/24) 
 
+![20241201_193228](https://github.com/user-attachments/assets/7fa09887-2368-43ce-a3f5-a60393812566)
+
+
 First Prototype Notes
 
 The first prototype was a simple test design to see how the 3D print would attach to the exhaust port of the respirator mask. 
@@ -61,7 +73,7 @@ While I encourage the use of these designs for personal or commercial purposes, 
 
 Philosophy & Goals
 
-This project is born out of a personal need: the ability to filter pollen while being active, particularly during mountain biking. Respirators like the 3M 6000 series offer superior comfort and function compared to disposable dust masks, and I aim to build on that technology for broader uses.
+This project is born out of a personal need: the ability to filter pollen while being active, particularly while mountain biking. Respirators like the 3M 6000 series offer better face comfort compared to disposable dust masks, and I aim to build on that technology for broader uses.
 
 I also believe in promoting the normalization of mask-wearing in society, not just for protection but as a form of self-expression. With growing concerns about pollution, microplastics, and airborne diseases, wearable filters will become more important for our collective future. By developing open, modular, and functional headgear, I hope to provide a creative outlet for the community and help others embrace mask-wearing in more contexts.
 
@@ -71,7 +83,7 @@ Community & Open-Source Vision
 
 As part of the Open Source Fursuit Project, I hope to create a space where makers and designers can collaborate on wearable tech, cosplay, and cyberpunk gear. I welcome contributions, ideas, and variations from the community, as I believe this project can go in many exciting directions.
 
-Whether you’re a furry, a cosplayer, or a transhumanist designer, this project is meant to empower you to build unique creations that push the boundaries of wearable tech. I hope for my design to start a trend for creative and functional wearable designs, and I can’t wait to see how others will build on these ideas.
+Whether you’re a furry, a cosplayer, or just someone who wants to breath better, this project is meant to empower you to build unique creations that push the boundaries of wearable tech. I hope for my design to start a trend for creative and functional wearable designs, and I can’t wait to see how others will build on these ideas.
 
 How to Contribute
 
