@@ -5,7 +5,7 @@ Project Overview
 
 This project revolves around adapting the 3M 6000 series respirator mask into a versatile platform for building cosplay and fursuit heads. I’ve discovered that wearing a respirator mask, especially for seasonal allergies, is not only more comfortable than taking allergy medications but also provides a unique opportunity to design custom headgear that attaches securely to a mask. 
 
-The 3M masks are comfortable, affordable, feature an anti-fog exhaust port, and have adjustable straps, making them ideal for attaching various 3D-printed head designs. The aim of this project is to create modular adapters and accessories that allow the creation of custom cosplay, fursuit, or cyberwear designs that can be easily attached to the mask, with plans to integrate electronics and additional functionality. 
+The 3M masks are affordable, fairly comfortable, feature an anti-fog exhaust port, and have adjustable straps; making them ideal for attaching various 3D-printed head designs. The aim of this project is to create modular adapters and accessories that allow the creation of custom cosplay, fursuit, or cyberwear designs that can be easily attached to the mask, with plans to integrate electronics and additional functionality. 
 
 Current Development 
 
@@ -17,7 +17,9 @@ In addition to the base adapter, I envision adding accessories such as:
 
 Motorcycle/MTB Helmet Integration: A version that works with a full face helmet ontop of a half mask.
 
-Transhumanist Stillsuit: With a focus on adapting to air quality concerns, this suit aims to normalize mask-wearing in everyday life with potential for oxygen supply, or other user focused needs such as standing or walking support.
+Transhumanist Stillsuit: With a focus on adapting to air quality concerns, this suit aims to normalize mask-wearing in everyday life with potential for oxygen or inhaler supply.
+
+Mobility Support: Features focused on user needs such as standing, walking, or wheelchair/mobility aid adapters.
 
 Electronic Integrations: Future designs will incorporate electronics like heads up displays, lights, external displays, speakers, and fans to create advanced digital cosplay or cyberpunk wearables.
 
@@ -25,9 +27,9 @@ Future Designs
 
 Wide View Parascopes: For TV head/Foreverwinter digital shaman design. May end up doing a video feed, but I want to experiment with mirrors a bit here. 
 
-Furry Chaos Space Marine: A full-body space marine suit integrated with the respirator mask. 
+Space Marine/Zaku/Jin Roh suit: Focus on larger/bulky armored cosplay base
 
-Tactical suit: I eventually want to build and test some of the bulletproof print design that Crash Makerspace is developing.
+Tactical/utilitarian suit: a base focused on practical use over form
 
 TV Head Prince Robot IV: TV head character that I plan to cosplay, should make good base design.
 
