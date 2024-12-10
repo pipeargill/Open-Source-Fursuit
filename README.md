@@ -64,6 +64,8 @@ Result: Mostly a failure, but it was able to be mounted and allowed me to measur
 
 (Finish this log with more recent updates) -12/7/24
 
+![20241205_000651](https://github.com/user-attachments/assets/459c6dd3-2de3-4ef2-a570-5e367fa49309)
+
 
 License & Usage
 
