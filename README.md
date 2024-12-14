@@ -83,13 +83,15 @@ Community & Open-Source Vision
 
 As part of the Open Source Fursuit Project, I hope to create a space where makers and designers can collaborate on wearable tech, cosplay, and cyberpunk gear. I welcome contributions, ideas, and variations from the community, as I believe this project can go in many exciting directions.
 
-Whether you’re a furry, a cosplayer, or just someone who wants to breath better, this project is meant to empower you to build unique creations that push the boundaries of wearable tech. I hope for my design to start a trend for creative and functional wearable designs, and I can’t wait to see how others will build on these ideas.
+Whether you’re a cosplayer or just someone who wants to breathe better, this project is meant to empower you to build unique creations that push the boundaries of wearable tech. I hope for my design to start a trend for creative and functional wearable designs, and I can’t wait to see how others will build on these ideas.
 
 How to Contribute
+
+Feature Bounty: If you want a feature developed I am happy to help make that happen if I have time to. My time is available for purchase if you'd like to commission a feature.
 
 Fork the Repository: If you want to contribute designs, ideas, or feedback, feel free to fork the project and submit pull requests.
 
 Give Attribution: If you use or modify the designs, please credit Pipeargill and this open-source project.
 
-Donate: If you want to support the development of this project, consider donating to a feature bounty fund. Donations will help support the creation of new designs and prototypes.
+Donate: If you want to support the development of this project, consider donating so I can spend more time on this. Donations will help support the creation of new designs and prototypes.
 
