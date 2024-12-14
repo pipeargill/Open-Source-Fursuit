@@ -62,6 +62,16 @@ Objective: Test fit, angle adjustment, and clearance.
 
 Result: Mostly a failure, but it was able to be mounted and allowed me to measure how far I was off.
 
+------
+Bluesky post 11/30/24 4:02PM
+
+I'm really excited to announce my first actually documented open project! Since I don't have to be a printer tech and can just prototype I've started working on one of my ideas! This is printing now and I'll post an update when I go home to feed the cats for lunch. #fursuiting #open-source
+
+![20241130_131642](https://github.com/user-attachments/assets/71881af0-2d24-4d69-a35f-065385fb03ce)
+-------------
+
+
+
 (Finish this log with more recent updates) -12/7/24
 
 ![20241205_000651](https://github.com/user-attachments/assets/459c6dd3-2de3-4ef2-a570-5e367fa49309)
