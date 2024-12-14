@@ -62,19 +62,14 @@ Objective: Test fit, angle adjustment, and clearance.
 
 Result: Mostly a failure, but it was able to be mounted and allowed me to measure how far I was off.
 
-12/13/24 MIT License over GNU 3
-I decided to go full permissive with this design because I want to make these concepts accessible and I want to build my reputation as a designer. You can absolutely use my work, just credit me.
-
 (Finish this log with more recent updates) -12/7/24
 
 ![20241205_000651](https://github.com/user-attachments/assets/459c6dd3-2de3-4ef2-a570-5e367fa49309)
 
-
 License & Usage
 
-This project is open-source under the GNU General Public License v3.0. You are free to modify, share, and even sell parts you print or suits you make, provided you give credit to Pipeargill and this project.
-
-While I encourage the use of these designs for personal or commercial purposes, I ask that anyone incorporating them into their work provides attribution.
+12/13/24 MIT License over GNU 3
+I decided to go full permissive with this design because I want to make these concepts accessible and I want to build my reputation as a designer. You can absolutely use my work, just credit Pipeargill and link to this github.
 
 Philosophy & Goals
 
