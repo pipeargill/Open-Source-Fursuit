@@ -32,13 +32,15 @@ Mobility Support: Features focused on user needs such as standing, walking, or w
 
 Electronic Integrations: Future designs will incorporate electronics like heads up displays, lights, external displays, speakers, and fans to create advanced digital cosplay or cyberpunk wearables.
 
-Future Designs 
+Meshtastic/radio- embedding comms systems
 
 Wide View Parascopes: For TV head/Foreverwinter digital shaman design. May end up doing a video feed, but I want to experiment with mirrors a bit here. 
 
 Space Marine/Zaku/Jin Roh suit: Focus on larger/bulky armored cosplay base
 
-Tactical/utilitarian suit: a base focused on practical use over form
+Tactical/utilitarian suit: a base focused on practical use over form.
+
+Ballistics- use of embedded printed structures that help resist bullet impacts -explore molecular geometries such as diamond, double diamond, graphine, and variations on these structures.
 
 TV Head Prince Robot IV: TV head character that I plan to cosplay, should make good base design.
 
