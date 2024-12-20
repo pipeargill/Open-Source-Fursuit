@@ -1,4 +1,19 @@
 # Open-Source-Fursuit
+
+For organization sake I am structuring my wearable projects into 3 main categories:
+
+Open-Source Cosplay 
+This category is for parts and techniques related to turning 3D designs into wearables. Think hard shell armor and character faces printed directly.
+
+Open-Source Fursuit
+This category is for parts and techniques related to turning character concepts into wearables that utilize a fabric, textile, or faux-fur outer layer. 
+
+Open-Source Cyberwear 
+This category is for functional parts that add to a wearables functionality or act as some sort of usability aid or prosthesis. Think anything from lights and sounds to standing support to digileg to wearable information and computer systems.
+
+pipeargills toolbox
+This is a bonus category that I will be throwing any tools I design along the way.
+
 Open Cosplay/Fursuit Base Build for 3M 6000 Series Respirator Mask 
 ![20241205_011155](https://github.com/user-attachments/assets/896af129-97d1-4a42-aae2-ec2b246f2b39)
 
