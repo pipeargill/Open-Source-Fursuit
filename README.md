@@ -130,7 +130,7 @@ Join a tier membership: If you want to support the development of this project, 
 
 ### Philosophy & Goals
 
-I am putting this at the end because it is both the more and least important part of these wearable projects. Uncontrollable yapping to follow:
+I am putting this at the end because it is both the most and least important part of these wearable projects. Uncontrollable yapping to follow:
  
 This project is born out of a personal need to filter pollen while being active, particularly while mountain biking. My alergies are bad and medically relavent, but my needs are minor compaired to what that of my friends and people I've known. The risk of losing the freedom to cover our face and protect our bodies is real and it is terrifying for the immunocompromised folk. [Some More News - Mask Bans](https://youtu.be/XTNBMVoFqN8?si=kvrvwtuGsiLRsKs5)
 
