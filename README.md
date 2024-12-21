@@ -128,7 +128,7 @@ Give Attribution: If you use or modify the designs, please credit Pipeargill and
 
 Join a tier membership: If you want to support the development of this project, consider giving me money so I can spend more time on this. Support will help support the creation of new designs and prototypes and I aim to make it worthwile for my supporters.
 
-##Philosophy & Goals
+### Philosophy & Goals
 
 I am putting this at the end because it is both the more and least important part of these wearable projects. Uncontrollable yapping to follow:
  
