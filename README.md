@@ -14,6 +14,8 @@ This category is for functional parts that add to a wearables functionality or a
 pipeargills toolbox
 This is a bonus category that I will be throwing any tools I design along the way.
 
+
+
 Open Cosplay/Fursuit Base Build for 3M 6000 Series Respirator Mask 
 ![20241205_011155](https://github.com/user-attachments/assets/896af129-97d1-4a42-aae2-ec2b246f2b39)
 
@@ -96,15 +98,19 @@ I'm really excited to announce my first actually documented open project! Since 
 License & Usage
 
 12/13/24 MIT License over GNU 3
-I decided to go full permissive with this design because I want to make these concepts accessible and I want to build my reputation as a designer. You can absolutely use my work, just credit Pipeargill and link to this github.
+I decided to go full permissive with this design because I want to make these concepts accessible and I want to build my reputation as a designer. You can absolutely use my work, just credit Pipeargill and link to my github.
 
-Philosophy & Goals
+This project is dual-licensed under the following:
+- [MIT License](licenses/MIT.txt)
+- [Apache License 2.0](licenses/Apache2.0.txt)
 
-This project is born out of a personal need: the ability to filter pollen while being active, particularly while mountain biking. Respirators like the 3M 6000 series offer better face comfort compared to disposable dust masks, and I aim to build on that technology for broader uses.
+You may choose either license to use this project.
 
-I also believe in promoting the normalization of mask-wearing in society, not just for protection but as a form of self-expression. With growing concerns about pollution, microplastics, and airborne diseases, wearable filters will become more important for our collective future. By developing open, modular, and functional headgear, I hope to provide a creative outlet for the community and help others embrace mask-wearing in more contexts.
+### Tiers of Access
+- STL files: Free to download after early release period, print-ready, with slight distortions and watermarks.
+- STEP files: Available for purchase, offering high-quality, editable designs.
 
-In a world that’s increasingly concerned with surveillance and the loss of privacy, this project also embraces the freedom to wear masks and alter one's appearance. I support the idea of using masks as a form of personal expression, while also recognizing the importance of respecting others' rights and freedoms.
+Early access is granted to Patreon supporters. Free public releases will follow.
 
 Community & Open-Source Vision
 
@@ -120,5 +126,70 @@ Fork the Repository: If you want to contribute designs, ideas, or feedback, feel
 
 Give Attribution: If you use or modify the designs, please credit Pipeargill and this open-source project.
 
-Donate: If you want to support the development of this project, consider donating so I can spend more time on this. Donations will help support the creation of new designs and prototypes.
+Join a tier membership: If you want to support the development of this project, consider giving me money so I can spend more time on this. Support will help support the creation of new designs and prototypes and I aim to make it worthwile for my supporters.
+
+##Philosophy & Goals
+
+I am putting this at the end because it is both the more and least important part of these wearable projects. Uncontrollable yapping to follow:
+ 
+This project is born out of a personal need to filter pollen while being active, particularly while mountain biking. My alergies are bad and medically relavent, but my needs are minor compaired to what that of my friends and people I've known. The risk of losing the freedom to cover our face and protect our bodies is real and it is terrifying for the immunocompromised folk. [Some More News - Mask Bans](https://youtu.be/XTNBMVoFqN8?si=kvrvwtuGsiLRsKs5)
+
+Respirators like the 3M 6000 series offer better face comfort compared to disposable dust masks and keep hot air off the face, and I aim to build on that technology for broader and more creative daily use.
+
+Face recognicion means that we are increasingly carrying our identifcation papers on our face, and banning masks at protests insures that the ability to protest without being doxxed and harassed will be vanishing. 
+Privacy as a fundamental human right, recognized in Article 12 of the Universal Declaration of Human Rights and Article 17 of the International Covenant on Civil and Political Rights (ICCPR)
+
+I believe in promoting the normalization of mask-wearing in society, not just for protection but as a form of self-expression. With growing concerns about pollution, microplastics, and airborne diseases, wearable filters will become more important for our collective future. By developing open, modular, and functional headgear, I hope to support a creative outlet for the community and help others embrace volentary personal protection in more contexts.
+
+[List of medical reasions to need a mask in public]
+
+An extremely important note to make is that for many people mask wearing and protecting one's body are extremely important religious and cultural rights that should not be disrespected, appropreated, or the expression of suppressed.
+Here is a list:
+
+Christianity:
+1 Corinthians 6:19-20: “Your body is a temple of the Holy Spirit... therefore honor God with your bodies.”
+
+Exodus 34:29-35 (The Bible): Moses veils his face after descending from Mount Sinai because his face shines from speaking with God. Many modern Christians speak with God regurally, and are often called to action by God. They would be following Moses' tradition by covering their face.
+
+During the COVID-19 pandemic, many churches referenced Leviticus 13:45-46, which outlines isolation and covering the mouth of individuals with contagious conditions, as biblical support for mask-wearing.
+
+Judaism:
+
+Isaiah 6:2: Describes seraphim covering their faces in the presence of God, which can symbolize reverence and humility.
+
+Masks and costumes are central to Purim celebrations, expressing joy and creativity in a religious context.
+
+Buddhism:
+
+Dhammapada 231-233: “One should guard oneself... Protect your body, for it is the vehicle of your spirit.” This emphasizes taking care of one’s body, which can extend to wearing masks for health or ritual purposes.
+    
+Buddhist monks and practitioners in some traditions wear face coverings (e.g., in Japan and Korea) to protect life, reflecting the principle of Ahimsa (non-harm).
+
+Sikhism:
+
+Guru Granth Sahib: “Body and mind belong to the One who owns the soul... Preserve the self in purity.” (SGGS, Ang 727). Sikh teachings emphasize maintaining health and cleanliness as part of spiritual discipline.
+
+Taoism:
+
+Tao Te Ching 50: “He who protects his body as sacred has found his purpose.”
+
+Hindu:
+
+In Hindu traditions, masks are often used in performances like Kathakali or Ramayana reenactments, symbolizing deities and characters.
+
+Shinto:
+
+Masks are worn in traditional rituals to represent kami (spirits) and protect participants in sacred spaces from impurity.
+
+Indigenous Spiritualities:
+
+Masks play a significant role in Native American, Australian Aboriginal, African, and other indigenous ceremonies. They are worn for expression, storytelling, and connecting with the spiritual world. Many of these traditions have been lost but if anyone would like to share specific examples please reach out to me.
+
+This is not an exaustive list and I am not an expert, but there is enough information here to show that determining if an individual's reasion for wearing a mask is either religion or medical is an impossible task without legally enguaging with them, which authorities often will not have cause to do. This information is here to help protect the public and give aid to those who wish to challenge unjust or unconstitutional laws in the United States. I make no warrenties, do your own research. I am not a lawyer, I am a silly clown person who says silly thing.
+
+
+
+
+
+
 
